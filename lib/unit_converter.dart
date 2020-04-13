@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unit_converter/category.dart';
+import 'package:converter/category.dart';
 import 'unit.dart';
 import 'package:meta/meta.dart';
 import 'api.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unit_converter/unit.dart';
+import 'package:converter/unit.dart';
 
 class Category {
   final String iconLocation;

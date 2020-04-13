@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:unit_converter/category.dart';
-import 'package:unit_converter/unit_converter.dart';
+import 'package:converter/category.dart';
+import 'package:converter/unit_converter.dart';
 
 final _rowHeight = 100.0;
 final _borderRadius = BorderRadius.circular(_rowHeight / 2);
